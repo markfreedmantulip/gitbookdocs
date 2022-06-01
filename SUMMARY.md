@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Manual](README.md)
+* [Getting Started](README.md)
+* [Manual](<README (1).md>)
   * [Running Applications](manual/running-applications/README.md)
     * [Tulip Player](manual/running-applications/tulip-player.md)
     * [Test Mode / Developer Mode](manual/running-applications/test-mode-developer-mode.md)
